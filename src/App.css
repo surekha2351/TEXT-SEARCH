@@ -1,0 +1,61 @@
+.admitcard{
+    font-size:50px;
+}
+h1 > span{
+    color: #00bfff;
+}
+h1 > p{
+    font-size: 20px;
+    color:grey;
+    padding-top:20px;
+}
+.para{
+    font-size: 15px;
+    color: grey;
+}
+.button{
+    background-color: #ff751a;
+    border-radius: 35px;
+}
+.login{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.login1{
+    padding: 20px;
+    color: grey;
+}
+.login2{
+    padding-bottom: 20px;
+    padding-left: 70px;
+}
+.login3{
+    padding-top: 20px;
+    color: grey;
+    padding-left: 115px;
+
+}
+.button1{
+    background-color: #ff751a;
+    border-radius: 35px;
+    margin-top: 100px;
+}
+.image{
+    width: 305px;
+    height: 308px;
+    top: 95px;
+    left: 29px;
+}
+.charge{
+    padding-left: 90px;
+}
+.change-num{
+    text-decoration: underline;
+    color: #ff751a;
+    font-size: 16px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+}
+.opt-container {
+    color: black;
+}
